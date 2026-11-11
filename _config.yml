@@ -1,0 +1,26 @@
+title: "Entre páginas"
+description: "Un cuaderno personal de lecturas, ideas y libros pendientes."
+url: ""
+baseurl: ""
+lang: es-ES
+timezone: Europe/Madrid
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - leidos.md
+  - por-leer.md
+  - resenas.md
+  - archivo.md
+  - sobre-mi.md
+
+minima:
+  skin: classic
+  social_links: []
+
+show_excerpts: true
+permalink: /:categories/:year/:month/:day/:title/
