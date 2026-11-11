@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre este cuaderno
+title: 
 permalink: /sobre-mi/
 description: Qué encontrarás en esta bitácora lectora.
 ---
