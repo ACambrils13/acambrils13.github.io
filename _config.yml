@@ -1,4 +1,5 @@
 title: "13 Libros"
+author: "A. Cambrils"
 description: "Un cuaderno personal de lecturas, ideas y libros pendientes."
 url: ""
 baseurl: ""
@@ -15,7 +16,6 @@ header_pages:
   - leidos.md
   - por-leer.md
   - resenas.md
-  - archivo.md
   - sobre-mi.md
 
 minima:
