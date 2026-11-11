@@ -21,4 +21,3 @@ Las entradas nuevas aparecerán automáticamente debajo:
   {% endfor %}
 </ul>
 
-¿Vas a escribir una reseña? Usa `PLANTILLA_RESEÑA.md` como punto de partida.
