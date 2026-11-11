@@ -34,9 +34,6 @@ permalink: /
   </a>
 </div>
 
-## Últimas entradas
-
-Aquí aparecerán las reseñas y notas que publiques. Para añadir una, crea un archivo Markdown dentro de `_posts` siguiendo el ejemplo de `PLANTILLA_RESEÑA.md`.
 
 <div class="note-strip">
   <strong>Una regla de esta biblioteca</strong>
