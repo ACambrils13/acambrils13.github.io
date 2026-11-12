@@ -21,3 +21,5 @@ description: Qué encontrarás en esta bitácora lectora.
 No todas las lecturas tienen que convertirse en una reseña. A veces bastará una frase; otras, necesitaré varias páginas para ordenar lo que me ha provocado un libro.
 
 *Este espacio está en construcción, igual que cualquier buena biblioteca.*
+[Github](https://github.com/ACambrils13)
+[Enlace de prueba](https://example.invalid/not-exists)
